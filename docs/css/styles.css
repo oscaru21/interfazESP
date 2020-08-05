@@ -1,0 +1,56 @@
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.col-lg-3{
+    padding-bottom: .5rem;
+}
+
+#features {
+    padding: 0 15%;
+}
+
+h3 {
+    font-weight: bolder;
+}
+.feature-box {
+    text-align: center;
+    padding: 5%;
+    margin-bottom: 0rem;
+}
+.body-container {
+    background-color: #8f8f8f;
+}
+
+.icon {
+    color: #ffc107;
+    margin-bottom: 1rem;
+}
+
+.icon:hover {
+    color: yellow;
+}
+
+#carousel-plcs {
+    height: 50%;
+    background-color: #000;
+    text-align: center;
+    
+}
+
+.plc-image {
+    align-items: inherit;
+    width: 30%;
+}
+
+.carousel-item {
+    padding: 2% 15%;
+}
+
+@media (max-width: 700px) {
+    .plc-image {
+        width: 50%;
+    }
+}
+    
+
