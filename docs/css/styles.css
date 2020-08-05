@@ -52,7 +52,7 @@ h3 {
 
 @media (max-width: 700px) {
     .plc-image {
-        width: 50%;
+        width: 100%;
     }
 }
     
